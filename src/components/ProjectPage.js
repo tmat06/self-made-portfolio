@@ -21,7 +21,7 @@ export default class ProjectPage extends React.Component {
             marginTop: "90px",
             marginBottom: "-15px",
             textAlign: "left"
-          }}
+          }}//dog
         >
           <div className="project-page-container-upper">
             <div>{this.props.name}</div>
